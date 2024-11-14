@@ -1,3 +1,5 @@
+---
+# Konfigurasi untuk superlinter
 name: Super-Linter
 
 on: push
