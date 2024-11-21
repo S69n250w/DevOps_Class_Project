@@ -1,1 +1,3 @@
 FROM nginx
+
+CMD ["http-server", "-p", "80"]
